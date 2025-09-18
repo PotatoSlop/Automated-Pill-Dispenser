@@ -1,5 +1,8 @@
 # Automated Pill Dispenser
 ![Alt Text](./ProjectPoster.png)
+
+# Project for Cornerstone Engineering 2
+
 ## Design Goals and Defining the Challenge
 Our project sought to tackle the issue of "_Creating a device that reliably distributes, organizes, and tracks medicine for patients & caretakers_"
 
