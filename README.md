@@ -37,4 +37,5 @@ In my role as the designer and mechanics lead, I designed the dispenser with the
 
 In order to reduce costs of production and fit our project within the development deadline, the upper shell's LCD and button interface were manually installed via a cutout extruded by hand. This also has the side effect of customization with the design, allowing users or manufacturers to adapt the design with existing hardware and user interface displays.
 
+![Alt Text](./Untitled%20Project%20(2).jpg)
 
